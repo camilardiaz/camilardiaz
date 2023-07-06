@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
-<h3 align="center">Passionate Data Analyst with specialized knowledge in Fraud Prevention</h3>
+<h3 align="center">Passionate Data Analyst with specialized knowledge in Fraud Prevention. Currtenly at Miami, FL</h3>
 
-- 🔭 I’m currently working on **Fraud Prevention and Analytics**
+- 🔭 I’m currently working on **Fraud Prevention and Data Analytics**
 
 - 💬 Ask me about **MySQL, Python, R, Fraud Prevention**
 
